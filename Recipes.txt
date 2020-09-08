@@ -10,7 +10,5 @@ Egg Omlet
 Chicken
 Mutton
 
-
-Regards
 Thank You :)
 Finally Done with Version 1.0
